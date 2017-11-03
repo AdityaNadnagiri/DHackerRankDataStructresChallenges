@@ -1,4 +1,4 @@
-package Java2DArrayHourGlass;
+package bJava2DArrayHourGlass;
 
 import java.util.Scanner;
 
