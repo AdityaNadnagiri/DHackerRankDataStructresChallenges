@@ -6,8 +6,10 @@ public class Solution {
 
     	public static void main(String[] args) {
 		int count = 0;
+		System.out.println("Enter the Number of elements in the array");
 		Scanner input = new Scanner(System.in);
 		int[] a = new int[input.nextInt()];
+		System.out.println("Enter the Array Elements");
 		for (int i = 0; i < a.length; i++) {
 			a[i] = input.nextInt();
 		}
