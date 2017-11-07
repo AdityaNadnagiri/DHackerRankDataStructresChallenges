@@ -1,4 +1,4 @@
-package fJavaList;
+package fJava.list;
 import java.util.ArrayList;
 import java.util.Scanner;
 

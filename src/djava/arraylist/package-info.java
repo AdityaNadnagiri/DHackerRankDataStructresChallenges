@@ -1,5 +1,5 @@
 /**
- * https://www.hackerrank.com/challenges/java-list/problem
+ * https://www.hackerrank.com/challenges/java-arraylist/problem
  */
 /**
  * @author Aditya Nandagiri
@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package fJavaList;
+package djava.arraylist;

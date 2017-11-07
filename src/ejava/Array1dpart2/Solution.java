@@ -1,4 +1,4 @@
-package eJava1DArrayPart2;
+package ejava.Array1dpart2;
 
 import java.util.*;
 public class Solution {

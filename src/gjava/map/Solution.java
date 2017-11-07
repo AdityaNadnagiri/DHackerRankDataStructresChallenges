@@ -1,4 +1,4 @@
-package gJavaMap;
+package gjava.map;
 
 import java.util.HashMap;
 import java.util.Scanner;

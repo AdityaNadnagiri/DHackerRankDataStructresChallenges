@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package eJava1DArrayPart2;
+package ejava.Array1dpart2;

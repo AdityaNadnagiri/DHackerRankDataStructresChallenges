@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package aJava1DArray;
+package ajava.array1d;

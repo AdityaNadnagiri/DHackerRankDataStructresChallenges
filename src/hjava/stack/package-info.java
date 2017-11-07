@@ -1,5 +1,5 @@
 /**
- * https://www.hackerrank.com/challenges/java-2d-array/problem
+ * https://www.hackerrank.com/challenges/java-stack/problem
  */
 /**
  * @author Aditya Nandagiri
@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package bJava2DArrayHourGlass;
+package hjava.stack;

@@ -1,4 +1,4 @@
-package aJava1DArray;
+package ajava.array1d;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 /**
- * https://www.hackerrank.com/challenges/java-arraylist/problem
+ * https://www.hackerrank.com/challenges/java-negative-subarray/problem
  */
 /**
  * @author Aditya Nandagiri
@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package dJavaArrayList;
+package cjavasubarray;
