@@ -1,8 +1,10 @@
 /**
- * 
+ * https://www.hackerrank.com/challenges/java-arraylist/problem
  */
 /**
- * @author nanda
+ * @author Aditya Nandagiri
  *
+ * @email  nandagiri.aditya@gmail.com
+ * 
  */
 package dJavaArrayList;
