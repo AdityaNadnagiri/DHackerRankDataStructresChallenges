@@ -1,4 +1,4 @@
-package ijava.hashset;
+package jjava.hashset;
 
 import java.util.HashSet;
 import java.util.Scanner;
@@ -16,7 +16,7 @@ public class Solution {
 		 HashSet<String> hashSet = new HashSet<>(); 
 	        for(int j=0;j<t;j++) 
 				{
-					String str=pair_left[j].toString()+"+"+pair_right[j].toString();
+					String str=pair_left[j]+":"+pair_right[j];
 					hashSet.add(str);
 					System.out.println(hashSet.size());
 				}

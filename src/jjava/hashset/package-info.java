@@ -5,4 +5,4 @@
  * @author nanda
  *
  */
-package ijava.hashset;
+package jjava.hashset;
