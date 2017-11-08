@@ -1,4 +1,4 @@
-package cjavasubarray;
+package cjava.subarray;
 
 import java.util.Scanner;
 
